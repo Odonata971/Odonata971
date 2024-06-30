@@ -43,5 +43,5 @@
 </p>
 
 <p align="center">
-  <img src="https://leetcode-stats-six.vercel.app/?username=Odonata971&theme=radical" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/Odonata971?theme=light,unicorn&ext=heatmap" alt="GitHub Trophies" />
 </p>
