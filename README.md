@@ -2,7 +2,7 @@
 <h3 align="center">A passionate French student in Computer Science / IT</h3>
 
 <p align="center">
-  <a href="www.linkedin.com/in/florian-f-0b880a286" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/florian-f-0b880a286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
   <a href="https://discord.gg/_odonata" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord"></a>
   <a href="mailto:florian.fabre@iut-rodez.fr" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
