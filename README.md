@@ -65,8 +65,8 @@
 ### 📊 GitHub Stats
 
 <p  >
-  <img src="https://raw.githubusercontent.com/Odonata971/github_stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages used by size" />
-  <img src="https://github-readme-stats.vercel.app/api?username=odonata971&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Odonata971/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages used by size" />
+  <img src="https://raw.githubusercontent.com/Odoanta971/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
 </p>
 
 <p  >
