@@ -64,11 +64,14 @@
 
 ### 📊 GitHub Stats
 
-<p  >
+<p>
+  <img src="https://raw.githubusercontent.com/Odonata971/github-stats/master/generated/languages.svg#gh-light-mode-only" alt="languages used by size" />
   <img src="https://raw.githubusercontent.com/Odonata971/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="languages used by size" />
-  <img src="https://raw.githubusercontent.com/Odoanta971/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
+
+  <img src="https://raw.githubusercontent.com/Odonata971/github-stats/master/generated/overview.svg#gh-light-mode-only" alt="GitHub Stats" />
+  <img src="https://raw.githubusercontent.com/Odonata971/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats" />
 </p>
 
-<p  >
+<p>
   <img src="https://leetcard.jacoblin.cool/Odonata971?theme=light,unicorn&ext=heatmap" alt="Leetcode Stats" />
 </p>
