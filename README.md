@@ -3,8 +3,6 @@
 
 <p>
   <a href="https://www.linkedin.com/in/florian-f-0b880a286/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discord.com/users/_odonata" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white" alt="Discord"></a>
-  <a href="mailto:florian.fabre@iut-rodez.fr" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Email"></a>
 </p>
 
 
